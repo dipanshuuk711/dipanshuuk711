@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dipanshuuk711
-- 👀 I’m interested in MERN Stack development
-- 🌱 I’m currently learning sessions
+ Hi, I’m @dipanshuuk711
+- 👀 I’m a MERN Stack developer
+- 🌱 I’m currently building projects
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9014310389
 - 😄 Pronouns: ...
